@@ -1,0 +1,20 @@
+{
+    "id": 1230,
+    "category": {
+      "id": 0,
+      "name": "kitty01"
+    },
+    "name": "kitty01",
+    "photoUrls": [
+      "kitty pic"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "kitty"
+      }
+    ],
+    "status": "available",
+    "newProperty": "22/10/2020",
+    "hello" : 22.234344343
+}

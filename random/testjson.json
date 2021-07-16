@@ -1,0 +1,20 @@
+{
+    "id": 1230,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie123",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available",
+    "newProperty": "22/10/2020",
+    "hello" : 22.234344343
+}
